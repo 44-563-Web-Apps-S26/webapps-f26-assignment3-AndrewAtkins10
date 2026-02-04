@@ -2,4 +2,4 @@
 # WebApps-S26-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at https://github.com/44-563-Web-Apps-S26/webapps-f26-assignment3-AndrewAtkins10/settings/pages](https://44-563-web-apps-s26.github.io/webapps-f26-assignment3-AndrewAtkins10/
+Hosted at [https://github.com/44-563-Web-Apps-S26/webapps-f26-assignment3-AndrewAtkins10/settings/pages](https://44-563-web-apps-s26.github.io/webapps-f26-assignment3-AndrewAtkins10/](https://44-563-web-apps-s26.github.io/webapps-f26-assignment3-AndrewAtkins10/)
